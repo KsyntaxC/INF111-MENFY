@@ -1,0 +1,3 @@
+#Generalizar esta estructura repetitiva
+# 2 2 5 5 5 5 5 2 2 5 5 5 5 5 2 2 5 5.....
+n=int(input("Intro n: "))
